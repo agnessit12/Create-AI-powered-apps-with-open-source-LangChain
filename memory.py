@@ -7,7 +7,7 @@ import os
 import gradio as gr
 import time
 # Mengatur API key
-openai_api_key = "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"  # Ganti dengan API key kamu
+openai_api_key = ""  # Ganti dengan API key kamu
 os.environ["OPENAI_API_KEY"] = openai_api_key
 # Mengatur memori percakapan
 # Memori ini akan menyimpan k banyak percakapan
